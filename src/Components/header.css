@@ -1,0 +1,12 @@
+.container .navbar {
+    width: 100%;
+}
+
+.profile-icon {
+    display: flex;
+    justify-self: flex-end;
+}
+
+/* .object-movie{
+    object-fit: cove
+} */
